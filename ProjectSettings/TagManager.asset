@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Ball
+  - Bottom
+  - Gray Block
+  - Platform
+  - Monster
+  - Laser
+  - PowerUp
+  - Border
+  - Projectile
+  - Invincible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Above
+    uniqueID: 2069461013
+    locked: 0
+  - name: darkness
+    uniqueID: 1004677271
+    locked: 0
+  - name: New Layer
+    uniqueID: 1310680601
+    locked: 0

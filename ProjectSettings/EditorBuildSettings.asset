@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/BreakMachine.unity
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+  - enabled: 1
+    path: Assets/Menu/Options.unity
+  - enabled: 1
+    path: Assets/Menu/Information.unity
+  - enabled: 1
+    path: Assets/Menu/History.unity
+  - enabled: 1
+    path: Assets/Menu/Leaderboards.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/lvl1load.unity
+  - enabled: 1
+    path: Assets/Lvl 1.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/lvl2load.unity
+  - enabled: 1
+    path: Assets/NEXT lvl.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/lvl3load.unity
+  - enabled: 1
+    path: Assets/lvl 3..unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/lvl4load.unity
+  - enabled: 1
+    path: Assets/unity lvl 4.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/lvl5load.unity
+  - enabled: 1
+    path: Assets/lvl 5.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/boss loading.unity
+  - enabled: 1
+    path: Assets/boss lvl.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/Game Over.unity
+  - enabled: 1
+    path: Assets/Loading Screen Scenes/highscores.unity
